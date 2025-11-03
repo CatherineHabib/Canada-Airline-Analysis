@@ -6,11 +6,11 @@ This project focused on a Canada Airline Loyalty Activity Analysis 🛫🕵🏼�
 
 🧰 Tools Used:
 
-SQL: For exploratory data analysis and initial querying.
+SQL: for exploratory data analysis and initial querying.
 
-Excel: For meticulous data cleaning and formatting.
+Excel: for meticulous data cleaning and formatting.
 
-Power BI: For dynamic dashboards, data modeling, and visual storytelling.
+Power BI: for dynamic dashboards, data modeling, and visual storytelling.
 
 🥅 Project Goals:
 
