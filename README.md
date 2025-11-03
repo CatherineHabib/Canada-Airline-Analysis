@@ -15,7 +15,11 @@ Power BI: for dynamic dashboards, data modeling, and visual storytelling.
 🥅 Project Goals:
 
 • Identify top customers by CLV.
+
 • Track flights and loyalty point behaviors across cities and provinces.
+
 • Understand demographic breakdowns by gender, education, and marital status.
+
 • Spot trends in loyalty card enrollments and cancellations.
+
 • Visualize point accumulations and redemptions over time.
